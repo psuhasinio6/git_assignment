@@ -1,1 +1,5 @@
-"public class Add{int add(int x,int y){return x+y;}}" 
+public class Add {
+    int add(int x, int y) {
+        return 2*x + 2*y;
+    }
+}
